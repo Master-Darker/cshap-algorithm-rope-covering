@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0ddb0af8-610b-44f4-b822-12990486c4c2": {
+      "ProjectGuid": "0ddb0af8-610b-44f4-b822-12990486c4c2",
+      "DisplayName": "绳子覆盖最多的点数",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "杂项文件",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
